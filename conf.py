@@ -1,0 +1,1 @@
+MY_API = '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'
